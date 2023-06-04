@@ -41,11 +41,11 @@ Would try to get more model knowledge and how ensembling right model could incre
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train.png)
+![image](https://github.com/Yuktha2708/Predict-Bike-Sharing-Demand-with-AutoGluon/assets/76445341/fef6458f-4cdd-4a4a-abea-6fdb6f4b23c4)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_test_score.png](img/model_test.png)
+![image](https://github.com/Yuktha2708/Predict-Bike-Sharing-Demand-with-AutoGluon/assets/76445341/44b33135-839b-4c60-a756-daee73be858f)
 
 ## Summary
 
