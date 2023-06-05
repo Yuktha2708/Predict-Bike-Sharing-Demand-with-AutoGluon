@@ -10,7 +10,7 @@ Managing my end sems and project submission deadline was hard. It took me alot o
 
 ### What was the top ranked model that performed?
 
-Optimizing hyper-parameters got me a better score of 0.50215. Increasing epoch and also by learning rate optimization, the score kept getting better.
+The top performing model was WeightedEnsemble with the score value of -54.644837
 
 ## Exploratory data analysis and feature creation
 
